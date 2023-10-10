@@ -28,6 +28,9 @@ Para usar esta API, você precisa das seguintes dependências:
 - Node.js
 - Express.js
 - MongoDB (ou outro banco de dados de sua escolha)
+- bodyParser
+- dotenv
+- cors
 
 ## Como Usar
 
